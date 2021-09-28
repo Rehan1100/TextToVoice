@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         ed1=(EditText)findViewById(R.id.editTextTextPersonName);
-        //changed
+        //changed second
 
         b1=(Button)findViewById(R.id.button);
         b2=(Button)findViewById(R.id.button2);
